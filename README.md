@@ -1,3 +1,3 @@
 # counter_using_provider
 
-A new Flutter project.
+A Counter app built in flutter using Provider State Management library
